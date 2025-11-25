@@ -1,0 +1,4 @@
+project_id = "otilcuzukaynslthrfjv"
+
+[functions.analyze-location]
+verify_jwt = false
